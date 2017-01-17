@@ -1,5 +1,5 @@
-# dankify
-An autohotkey script to send ｆｕｌｌｗｉｄｔｈ characters
+# autofullwidth
+An autohotkey script to send ｆｕｌｌｗｉｄｔｈ characters.
 
 # How to use me
 * Step 1: Install autohotkey - https://autohotkey.com/
